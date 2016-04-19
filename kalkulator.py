@@ -20,3 +20,6 @@ def wlasne_csv(separator,lokalizacja):
 x = input()
 y = input()
 print(sum(wlasne_csv(x,y)))
+
+def operacja(x,y):
+return(x+y)
