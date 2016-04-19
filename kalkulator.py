@@ -26,3 +26,5 @@ def operacja(x,y):
 
 def mnozenie(x,y):
 	return(x*y)
+	
+#1
