@@ -22,4 +22,7 @@ y = input()
 print(sum(wlasne_csv(x,y)))
 
 def operacja(x,y):
-return(x+y)
+	return(x+y)
+
+def mnozenie(x,y):
+	return(x*y)
